@@ -19,7 +19,7 @@ This module adds the batch transfer option in warehouse management
         'report/report_picking_batch.xml',
     ],
     'demo': [
-        'data/stock_picking_batch_demo.xml',
+        #'data/stock_picking_batch_demo.xml',
     ],
     'installable': True,
 }
